@@ -1,0 +1,13 @@
+#+TITLE:     Practise list in C++
+#+AUTHOR:    Baron Yong
+#+EMAIL:     baronysyong@gmail.com
+#+DESCRIPTION: Try different library in C++
+#+LANGUAGE:  en
+#+OPTIONS: toc:t H:3 num:t \n:nil
+
+* OpenMP
+    - https://computing.llnl.gov/tutorials/openMP/
+
+
+    
+    
