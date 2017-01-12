@@ -7,6 +7,9 @@
 
 * OpenMP
     - https://computing.llnl.gov/tutorials/openMP/
+    - https://computing.llnl.gov/tutorials/parallel_comp/
+    - https://www.tutorialspoint.com/parallel_algorithm/parallel_algorithm_introduction.htm
+    
 
 
     
