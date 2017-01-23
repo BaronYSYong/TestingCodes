@@ -1,3 +1,13 @@
+/*!
+ * @file strtod.c
+ * @brief test strtod in C
+ * @date 2016/1/23
+ * @author Yong Yoon Seong
+ * 
+ * Explanation
+ * http://www.cplusplus.com/reference/cstdlib/strtod/
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -24,7 +34,7 @@ int main(int argc,char* argv[])
     FILE* f;
     f = fopen("results","w");
     for(i = 0; i < 6; i ++)
-        fprintf(f,"%Lf\n",p[i]);
+        fprintf(f,"%f\n",p[i]);
     fclose(f);
     return 0;
 }
