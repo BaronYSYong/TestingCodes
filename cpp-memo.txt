@@ -1,0 +1,49 @@
+ class ConfigHolder{
+     public:
+         static bool loadConfig();
+         static int getSagyotan();
+     private:
+         static int sagyotan;
+         ConfigHolder(){}
+         ~ConfigHolder(){}
+ };
+ 
+ -------------------------------------
+ cpp part
+ 
+ 
+ int ConfigHolder::sagyotan=0;
+ bool ConfigHolder::loadConfig(){
+     filethingy fs = open(TARGET_CONFIG);
+     fs["sagyotan"] >> sagyotan;
+ }   
+ 
+ 
+ 
+ -----------------------------------
+ CMakeList.txt
+ 
+ option(TARGET_ES1 "blabla" OFF)
+ if(TARGET_ES1)
+     add_definitions(-DTARGET_CONFIG='ES_1.yaml')
+ endif()
+     
+  --------------------------
+  
+  cmake -DTARGET_ES1=ON ../
+  
+  ----------------------------------
+  
+ #include "ConfigHolder.hpp"
+  
+ ConfigHolder::getSagyotan();
+ 
+ -------------------------------------------------------
+ Singleton in C++
+ https://sourcemaking.com/design_patterns/singleton/cpp/1
+ 
+ Design Pattern
+ https://sourcemaking.com/design_patterns
+ 
+ 
+ 
