@@ -39,14 +39,7 @@
  ConfigHolder::getSagyotan();
  
  -------------------------------------------------------
- Singleton in C++
- https://sourcemaking.com/design_patterns/singleton/cpp/1
- 
- Design Pattern
- https://sourcemaking.com/design_patterns
- 
- https://en.wikipedia.org/wiki/Pragma_once
- https://www.wikiwand.com/en/Include_guard
+
  
  
  
