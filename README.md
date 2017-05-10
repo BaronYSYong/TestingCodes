@@ -44,3 +44,7 @@
 
 * Include guard
     * https://www.wikiwand.com/en/Include_guard
+
+## Miscellaneous
+* Buffer overflow
+    * https://en.wikipedia.org/wiki/Buffer_overflow
