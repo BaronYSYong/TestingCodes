@@ -30,9 +30,6 @@
 * C++ boost and STL template list of pointers 
     * http://www.yolinux.com/TUTORIALS/CppBoostStlPtrList.html
 
-* Socket tutorial
-    * http://www.linuxhowtos.org/C_C++/socket.htm
-
 * Singleton in C++
     * https://sourcemaking.com/design_patterns/singleton/cpp/1
  
