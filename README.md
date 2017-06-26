@@ -30,9 +30,6 @@
 * C++ boost and STL template list of pointers 
     * http://www.yolinux.com/TUTORIALS/CppBoostStlPtrList.html
 
-* Socket tutorial
-    * http://www.linuxhowtos.org/C_C++/socket.htm
-
 * Singleton in C++
     * https://sourcemaking.com/design_patterns/singleton/cpp/1
  
@@ -45,6 +42,13 @@
 * Include guard
     * https://www.wikiwand.com/en/Include_guard
 
+* Stack and queue using double linked list with c
+    * http://forums.devshed.com/programming/552624-stack-queue-using-double-linked-list-post2107725.html
+    * http://itsanee.blogspot.jp/2011/01/queue-program-in-c-using-double-linked.html
+    * Stack: FILO
+    * Queue: FIFO
+
 ## Miscellaneous
 * Buffer overflow
     * https://en.wikipedia.org/wiki/Buffer_overflow
+
