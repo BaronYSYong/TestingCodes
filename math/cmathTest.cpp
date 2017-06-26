@@ -11,7 +11,7 @@
 #define _USE_MATH_DEFINES
 
 int main(){
-    printf("PI = %f\n", M_PI);
+    printf("PI = %lf\n", M_PI);
     printf("cos(PI) = %f\n", cos(M_PI));
     printf("acos(-1) = %f\n", acos(-1));
 }
