@@ -47,6 +47,7 @@
     * http://itsanee.blogspot.jp/2011/01/queue-program-in-c-using-double-linked.html
     * Stack: FILO
     * Queue: FIFO
+* [std::function](https://en.cppreference.com/w/cpp/utility/functional/function)
 
 ## Miscellaneous
 * Buffer overflow
