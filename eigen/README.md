@@ -1,0 +1,9 @@
+# Eigen
+
+## Reference
+    * http://eigen.tuxfamily.org/dox2.0/TutorialCore.html 
+    * https://eigen.tuxfamily.org/dox/group__TutorialMatrixArithmetic.html
+
+## Installation
+    * Download and extract Eigen's source code
+        * http://eigen.tuxfamily.org/index.php?title=Main_Page#Download

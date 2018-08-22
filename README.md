@@ -8,11 +8,7 @@
     
 * Using STL(C++ Standard Template Library) 
     * http://www.codeproject.com/Articles/20930/ThecompleteguidetoSTLPart1Vector
-    
-* Eigen 
-    * http://eigen.tuxfamily.org/dox2.0/TutorialCore.html 
-    * https://eigen.tuxfamily.org/dox/group__TutorialMatrixArithmetic.html
-    
+        
 * CPP Check 
     * http://sourceforge.net/apps/mediawiki/cppcheck/index.php?title=Main_Page 
     * Run this as follows prompt> cppcheck enable=all *cpp 
