@@ -7,3 +7,4 @@
 ## Installation
     * Download and extract Eigen's source code
         * http://eigen.tuxfamily.org/index.php?title=Main_Page#Download
+        * hg clone https://bitbucket.org/eigen/eigen/
