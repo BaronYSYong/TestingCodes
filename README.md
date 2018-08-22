@@ -11,6 +11,7 @@
     
 * Eigen 
     * http://eigen.tuxfamily.org/dox2.0/TutorialCore.html 
+    * https://eigen.tuxfamily.org/dox/group__TutorialMatrixArithmetic.html
     
 * CPP Check 
     * http://sourceforge.net/apps/mediawiki/cppcheck/index.php?title=Main_Page 
