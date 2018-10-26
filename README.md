@@ -49,6 +49,7 @@
     * [std::bind](https://en.cppreference.com/w/cpp/utility/functional/bind)
     * [std::unique_ptr](https://en.cppreference.com/w/cpp/memory/unique_ptr)
     * [std::cref](https://en.cppreference.com/w/cpp/utility/functional/ref)
+* [How To Use Google Logging Library (glog)](https://hpc.nih.gov/development/glog.html)
 
 ## Miscellaneous
 * Buffer overflow
