@@ -42,6 +42,7 @@
 * nanomsg
     * https://github.com/dysinger/nanomsg-examples
 * [RAII](https://en.cppreference.com/w/cpp/language/raii) 
+* [Smart Pointers](https://www.geeksforgeeks.org/smart-pointers-cpp/)
 
 ## Tools
 * https://www.bottomupcs.com/compilation_example.xhtml
